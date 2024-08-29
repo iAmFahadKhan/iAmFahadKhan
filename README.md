@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub 👋😎
 
-🔭 I’m currently working on Fullstack-Web apps <br>👯 I’m looking to collaborate on React.js , Next.js and Wordpress projects<br>🌱 I’m currently learning Typescript , Figma and Firebase<br>💬 Ask me about MERN stack and Wordpress<br>⚡ The First Ever JavaScript Alert Box Had a Typo!
+🔭 I’m currently working on Fullstack-Web apps <br>👯 I’m looking to collaborate on React.js , Next.js and Wordpress projects<br>🌱 I’m currently learning Typescript , Figma and Firebase<br>💬 Ask me about React.js and Wordpress<br>⚡ The First Ever JavaScript Alert Box Had a Typo!
 
 
 ## 🌐 Socials:
